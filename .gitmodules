@@ -1,0 +1,30 @@
+[submodule "Restless"]
+	path = Restless
+	url = https://github.com/Enseed/Restless.git
+[submodule "civetweb"]
+	path = civetweb
+	url = https://github.com/Enseed/civetweb.git
+[submodule "Generic/Strings"]
+	path = Generic/Strings
+	url = https://github.com/Enseed/GenericStrings.git
+[submodule "Generic/CountPtr"]
+	path = Generic/CountPtr
+	url = https://github.com/Enseed/GenericCountPtr.git
+[submodule "Generic/Base"]
+	path = Generic/Base
+	url = https://github.com/Enseed/GenericBase.git
+[submodule "Generic/Atomic"]
+	path = Generic/Atomic
+	url = https://github.com/Enseed/GenericAtomic.git
+[submodule "Generic/Devel"]
+	path = Generic/Devel
+	url = https://github.com/Enseed/GenericDevel.git
+[submodule "boost"]
+	path = boost
+	url = https://stash.dsotm.dyndns.org/scm/tp/boost_include.git
+[submodule "Generic/AutoPtr"]
+	path = Generic/AutoPtr
+	url = https://github.com/Enseed/GenericAutoPtr.git
+[submodule "StackWalker"]
+	path = StackWalker
+	url = https://github.com/Enseed/StackWalker.git
